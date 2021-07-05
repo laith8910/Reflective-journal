@@ -58,6 +58,25 @@ h2 span{
 
 }
 
+div h2{
+    border-bottom: 3px solid black;
+    width: 210px;
+    background-color:rgb(182, 181, 181) ;
+    border-radius: 4px;
+    text-align: center;
+    margin: 8px auto;
+    position: static;
+}
+
+div p{
+    font-style: normal;
+    color: rgb(36, 35, 35);
+    text-align: center;
+    margin: 5px auto;
+    font-size: 20px;
+
+}
+
 article{
     margin-left: 20px;
 }
